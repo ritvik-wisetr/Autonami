@@ -8,7 +8,7 @@
       <![CDATA[https://autonami.bwfdemo.in/wp-login.php Url Navigated]]>
     </line>
     <line>
-      <![CDATA[09-12-2019-10-16-22@tact9.in Email existing]]>
+      <![CDATA[09-12-2019-10-46-23@tact9.in Email existing]]>
     </line>
     <line>
       <![CDATA[Order received]]>
@@ -17,12 +17,12 @@
       <![CDATA[cartRecoveryEvent_1 script is passed]]>
     </line>
   </reporter-output>
-  <suite started-at="2019-12-09T10:15:17 IST" name="Suite" finished-at="2019-12-09T10:21:52 IST" duration-ms="395065">
+  <suite started-at="2019-12-09T10:45:23 IST" name="Suite" finished-at="2019-12-09T10:51:50 IST" duration-ms="386616">
     <groups>
     </groups>
-    <test started-at="2019-12-09T10:15:17 IST" name="Test" finished-at="2019-12-09T10:21:52 IST" duration-ms="395065">
+    <test started-at="2019-12-09T10:45:23 IST" name="Test" finished-at="2019-12-09T10:51:50 IST" duration-ms="386616">
       <class name="com.autobot.scripts.CartRecovered_10">
-        <test-method is-config="true" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.autobot.scripts.CartRecovered_10@501edcf1]" started-at="2019-12-09T10:15:17 IST" name="setUp" finished-at="2019-12-09T10:15:32 IST" duration-ms="14883" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.autobot.scripts.CartRecovered_10@501edcf1]" started-at="2019-12-09T10:45:23 IST" name="setUp" finished-at="2019-12-09T10:45:38 IST" duration-ms="14859" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -44,21 +44,21 @@
             </line>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="cartRecoveryEvent_1()[pri:0, instance:com.autobot.scripts.CartRecovered_10@501edcf1]" started-at="2019-12-09T10:15:32 IST" name="cartRecoveryEvent_1" finished-at="2019-12-09T10:21:52 IST" duration-ms="380157" status="PASS">
+        <test-method signature="cartRecoveryEvent_1()[pri:0, instance:com.autobot.scripts.CartRecovered_10@501edcf1]" started-at="2019-12-09T10:45:38 IST" name="cartRecoveryEvent_1" finished-at="2019-12-09T10:51:50 IST" duration-ms="371728" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[09-12-2019-10-16-22@tact9.in Email existing]]>
+              <![CDATA[09-12-2019-10-46-23@tact9.in Email existing]]>
             </line>
             <line>
               <![CDATA[Order received]]>
             </line>
           </reporter-output>
         </test-method> <!-- cartRecoveryEvent_1 -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.autobot.scripts.CartRecovered_10@501edcf1]" started-at="2019-12-09T10:21:52 IST" name="tearDown" finished-at="2019-12-09T10:21:52 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.autobot.scripts.CartRecovered_10@501edcf1]" started-at="2019-12-09T10:51:50 IST" name="tearDown" finished-at="2019-12-09T10:51:50 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=cartRecoveryEvent_1 status=SUCCESS method=CartRecovered_10.cartRecoveryEvent_1()[pri:0, instance:com.autobot.scripts.CartRecovered_10@501edcf1] output=09-12-2019-10-16-22@tact9.in Email existing]]]>
+                <![CDATA[[TestResult name=cartRecoveryEvent_1 status=SUCCESS method=CartRecovered_10.cartRecoveryEvent_1()[pri:0, instance:com.autobot.scripts.CartRecovered_10@501edcf1] output=09-12-2019-10-46-23@tact9.in Email existing]]]>
               </value>
             </param>
           </params>
